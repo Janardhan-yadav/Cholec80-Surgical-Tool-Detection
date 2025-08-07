@@ -1,0 +1,8 @@
+data/images/
+data/labels/
+runs/
+models/best.pt
+*.mp4
+*.avi
+__pycache__/
+.ipynb_checkpoints/
