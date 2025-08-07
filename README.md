@@ -42,7 +42,7 @@ In laparoscopic surgeries, identifying surgical tools in real time helps automat
 
 📸 **Example annotated image**:
 
-![Annotation Example](assets/tran.jpg)
+![Annotation Example](assets/trian.jpg)
 
 ---
 
@@ -122,8 +122,6 @@ Annotation: Label Studio
 
 Training Platform: Google Colab
 
-📄 License
-This project is licensed under the MIT License.
 
 💬 Feedback or Contributions
 Feel free to raise an issue or submit a pull request.
@@ -134,19 +132,3 @@ Edit
 
 ---
 
-### ✅ What to Do Next:
-
-1. Replace:
-   - `YOUR_USERNAME` with your GitHub username
-   - `your_model_link` with your actual Drive link for `best.pt`
-2. Place images in the `images/` folder:
-   - `annotation_example.jpg`
-   - `prediction1.jpg`
-   - `prediction2.jpg`
-3. Save this as `README.md` in your repo folder
-4. Run:
-
-```bash
-git add README.md images/
-git commit -m "Add detailed README with YOLOv11n results and images"
-git push
