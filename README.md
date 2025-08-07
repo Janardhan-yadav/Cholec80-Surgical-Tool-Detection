@@ -42,7 +42,7 @@ In laparoscopic surgeries, identifying surgical tools in real time helps automat
 
 📸 **Example annotated image**:
 
-![Annotation Example](assets/trian.jpg)
+![Annotation Example](assets/train.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ In laparoscopic surgeries, identifying surgical tools in real time helps automat
 
 The following confusion matrix shows how the model performs across different tool classes:
 
-![Confusion Matrix](assets/confusion_matrix.png)
+<img src="assets/confusion_matrix.png" width="480"/>
 ## ▶️ How to Run
 
 1. **Clone the repository**:
