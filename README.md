@@ -14,7 +14,6 @@ A deep learning project for detecting surgical tools in laparoscopic videos usin
 - [How to Run](#how-to-run)
 - [Future Enhancements](#future-enhancements)
 - [Credits](#credits)
-- [License](#license)
 
 ---
 
@@ -42,7 +41,7 @@ In laparoscopic surgeries, identifying surgical tools in real time helps automat
 
 📸 **Example annotated image**:
 
-![Annotation Example](assets/train.jpg)
+<img src="assets/train.jpg" width="480"/>
 
 ---
 
